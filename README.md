@@ -58,5 +58,5 @@
 
   # publish the following versions
   npm version patch
-  npm publish
+  npm publish 
   ```
